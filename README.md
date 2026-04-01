@@ -1,54 +1,54 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/wildvine)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/wildvine?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/wildvine?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/6Dj881BJ5kw?style=social)](https://youtu.be/6Dj881BJ5kw)
 
-  <br />
-  <br />
+  <h1>🌿 Wildvine - Charity Website</h1>
 
-  <h2 align="center">Wildvine - Charity website</h2>
+  <p>
+    A fully responsive charity website built using <b>HTML, CSS, and JavaScript</b>.
+  </p>
 
-  Wildvine is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  <a href="https://codewithsadee.github.io/wildvine/">
+    <img src="https://img.shields.io/badge/🔗 Live Demo-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
-  <a href="https://codewithsadee.github.io/wildvine/"><strong>➥ Live Demo</strong></a>
+  <br/><br/>
+
+  <img src="https://img.shields.io/github/repo-size/upeka200163/wildvine?color=blue"/>
+  <img src="https://img.shields.io/github/stars/upeka200163/wildvine?style=social"/>
+  <img src="https://img.shields.io/github/forks/upeka200163/wildvine?style=social"/>
 
 </div>
 
-<br />
+---
 
-### Demo Screeshots
+## 📸 Demo Preview
 
-![Wildvine Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+<p align="center">
+  <img src="./readme-images/desktop.png" width="90%" alt="Wildvine Preview"/>
+</p>
 
-### Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## 🚀 Features
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- ✅ Fully Responsive Design (Mobile + Desktop)
+- 🎨 Modern UI/UX Design
+- ⚡ Fast and Lightweight
+- 🌍 Charity-focused website structure
+- 📱 Cross-browser compatibility
 
-### Run Locally
+---
 
-To run **Wildvine** locally, run this command on your git bash:
+## 🛠️ Technologies Used
 
-Linux and macOS:
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📂 Project Setup
+
+### 🔽 Clone the repository
 
 ```bash
-sudo git clone https://github.com/codewithsadee/wildvine.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/wildvine.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+git clone https://github.com/upeka200163/wildvine.git
