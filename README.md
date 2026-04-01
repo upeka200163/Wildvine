@@ -6,7 +6,7 @@
     A fully responsive charity website built using <b>HTML, CSS, and JavaScript</b>.
   </p>
 
-  <a href="https://codewithsadee.github.io/wildvine/">
+  <a href="https://upeka200163.github.io/Wildvine/">
     <img src="https://img.shields.io/badge/🔗 Live Demo-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
