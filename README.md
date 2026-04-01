@@ -51,4 +51,4 @@
 ### 🔽 Clone the repository
 
 ```bash
-git clone https://github.com/upeka200163/wildvine.git
+git clone : https://github.com/upeka200163/Wildvine.git
